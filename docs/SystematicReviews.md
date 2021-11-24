@@ -4,11 +4,9 @@
 
 ## Application 
 
--   Applies to studies that systematically find and analyze existing
-    literature about a specified topic
+-   Applies to studies that systematically find and analyze existing literature about a specified topic
 -   Applies both to secondary and tertiary studies
--   Does not apply to ad-hoc literature reviews, case surveys or
-    advanced qualitative synthesis methods (e.g. meta-ethnography)
+-   Does not apply to ad-hoc literature reviews, case surveys or advanced qualitative synthesis methods (e.g. meta-ethnography)
 
 ## Specific Attributes 
 
@@ -17,15 +15,24 @@
 
 <intro>
 
+- [ ]   clearly establishes the need to conduct a systematic review (e.g. lack of a similar review on the subject, need to provide stronger evidence regarding a research question)
 - [ ]	identifies type of review (e.g. scoping review, meta-analysis, systematic mapping study, narrative synthesis, case survey, critical review)
 
 <method>
 
+- [ ]   defines the research goal and the associated research questions
+- [ ]   characterizes the research question, preferably using PICO attributes (population, intervention, control, outcomes)
+- [ ]	defines clear inclusion and exclusion criteria for the selection of sources of studies
+- [ ]   defines a generic search expression considering each attribute of PICO and their synonyms
+- [ ]   evaluates the efficacy of the search expression with respect to a quasi-golden standard or to a set of pre-selected papers (i.e. the search expression matches the quasi-golden standard or the set of pre-selected papers?)
+- [ ]   evaluates the efficiency of the search expression with respect to a quasi-golden standard or to a set of pre-selected papers (i.e. the search expression matches not many papers that does not belong to the quasi-golden standard or to the set of pre-selected papers?)
 - [ ]	presents step-by-step, systematic, replicable description of search process including search terms<sup>[1](#myfootnote1)</sup>  
-- [ ]	defines clear inclusion and exclusion criteria
+- [ ]	defines clear inclusion and exclusion criteria for the selection of studies
 - [ ]	specifies the data extracted from each primary study<sup>[2](#myfootnote2)</sup>  ; explains relationships to research questions
-- [ ]	describes in detail how data were extracted and synthesized (can be qualitative or quantitative)
-- [ ]	describes coding scheme(s) and their use
+- [ ]	describes in detail how data were extracted
+- [ ]   specifies the synthesis method used for the systematic review
+- [ ]	describes in detail how data were synthesized (can be qualitative or quantitative)
+- [ ]	if using qualitative methods for synthesis, describes coding scheme(s) and their use
 
 <results>
 
@@ -74,23 +81,15 @@
 
 ## Examples of Acceptable Deviations 
 
--   No attempts to mitigate publication bias in a study explicitly
-    examining a specific venue's (e.g. CACM or ICSE) coverage of a given
-    topic.
--   Using probability sampling on primary studies when there are too
-    many to analyze (i.e. thousands).
--   No recommendations for practitioners in a study of a methodological
-    issue (e.g. representative sampling).
+-   No attempts to mitigate publication bias in a study explicitly examining a specific venue's (e.g. CACM or ICSE) coverage of a given topic.
+-   Using probability sampling on primary studies when there are too many to analyze (i.e. thousands).
+-   No recommendations for practitioners in a study of a methodological issue (e.g. representative sampling).
 
 ## Antipatterns 
 
--   A laundry-list description of the studies (A found X, B found Y,
-    ...), rather than a synthesis of the findings.
--   Relying on characteristics of the publication venues as a proxy for
-    the quality of the primary studies instead of assessing primary
-    studies' quality explicitly.
--   Reviewing an area in which there are too few high-quality primary
-    studies to draw reliable conclusions.
+-   A laundry-list description of the studies (A found X, B found Y, ...), rather than a synthesis of the findings.
+-   Relying on characteristics of the publication venues as a proxy for the quality of the primary studies instead of assessing primary studies' quality explicitly.
+-   Reviewing an area in which there are too few high-quality primary studies to draw reliable conclusions.
 
 ## Suggested Readings 
 
