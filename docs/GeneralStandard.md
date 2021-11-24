@@ -40,6 +40,13 @@ following.
 
 <checklist name="Essential"> 
 
+<abstract>
+
+- [ ]   uses a structured abstract
+- [ ]   defines an objective or, if space allows, the research questions
+- [ ]   defines research method used in the study
+- [ ]   defines the main results of the study
+
 <intro>    
     
 - [ ]	states a purpose, problem, objective, or research question  
