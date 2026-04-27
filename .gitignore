@@ -1,2 +1,7 @@
 form_generator/.DS_Store
 .DS_Store
+.Rproj.user
+.idea/
+Gemfile
+Gemfile.lock
+_site/
